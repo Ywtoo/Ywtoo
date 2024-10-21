@@ -3,10 +3,14 @@
 
 Welcome to my page! I'm Gabriel, Programming Studant from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906449.png" width="15"/> Brazil.
 ### Where to find me
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrieln99626@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnas)
 [![Perfil DIO](https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/lulubiel09)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)
+[![Steam](https://img.shields.io/badge/Steam-094d7f?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198315848354/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ywtoo/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrieln99626@gmail.com)
+[![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ywtoo)
 
 ### Things I code with
 
