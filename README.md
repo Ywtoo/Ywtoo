@@ -54,8 +54,8 @@ Welcome to my profile! I am a developer focused on building efficient backends, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ywtoo&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ywtoo&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&text_color=ffffff&exclude_repo=nome-de-algum-repo-que-voce-nao-quer" alt="Top Languages Ranking" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ywtoo&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true&include_all_commits=true&hide=issues,contribs" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ywtoo&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages Ranking" height="165" />
   <img src="https://raw.githubusercontent.com/Ywtoo/Ywtoo/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details">
 </p>
 
