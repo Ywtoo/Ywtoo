@@ -54,29 +54,10 @@ Welcome to my profile! I am a developer focused on building efficient backends, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ywtoo&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ywtoo&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages Ranking" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ywtoo&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ywtoo&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=0077B5&text_color=ffffff&exclude_repo=nome-de-algum-repo-que-voce-nao-quer" alt="Top Languages Ranking" height="165" />
+  <img src="https://raw.githubusercontent.com/Ywtoo/Ywtoo/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details">
 </p>
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ywtoo/Ywtoo/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ywtoo/Ywtoo/main/profile-summary-card-output/dark/1-repos-per-language.svg" alt="Repos Per Language" width="48%">
-  <img src="https://raw.githubusercontent.com/Ywtoo/Ywtoo/main/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ywtoo/Ywtoo/main/profile-summary-card-output/dark/3-stats.svg" alt="Stats" width="48%">
-  <img src="https://raw.githubusercontent.com/Ywtoo/Ywtoo/main/profile-summary-card-output/dark/4-productive-time.svg" alt="Productive Time" width="48%">
-</p>
-
-
----
 
 ### 🤝 Connect with me
 
