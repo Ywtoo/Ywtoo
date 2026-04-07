@@ -5,12 +5,29 @@
   <img src="https://img.shields.io/badge/Location-Brazil-green?style=for-the-badge&labelColor=111827&color=2EA043" alt="Brazil">
 </p>
 
-Welcome to my profile! I am a developer focused on building efficient backends, integrating AI solutions, and developing complete systems. With real-world project experience, I always strive for scalable architecture, clean code, and database optimization, while maintaining versatility across mobile and frontend technologies.
+Welcome to my profile! I am a Full Stack developer focused on backend systems, API design, and data-driven applications. I have hands-on experience building and deploying real-world projects using Node.js, PostgreSQL, and Docker, with emphasis on testing, system reliability, and problem-solving.
+
+I am particularly interested in scalable systems, offline-first architectures, and practical AI integration.
 
 ### 💡 What I do
 - ⚙️ **Backend Development:** Building robust REST APIs and managing relational/NoSQL databases.
 - 🧠 **AI Integration:** Implementing artificial intelligence features into real-world applications.
 - 📱 **Fullstack & Mobile:** Connecting seamless frontends (Web & Mobile) to solid backend architectures.
+
+### 🚀 Featured Projects
+
+- **EduFlow API**  
+  Backend for LMS with AI integration, authentication (JWT + RBAC), integration tests, and Dockerized environment.
+  → Includes authentication flows, permission validation, and database interaction testing
+  → Focus: API design, testing, and system architecture  
+
+- **ToDoFeito (Offline-First App)**  
+  Task management app with deterministic merge algorithm and Google Drive sync.  
+  → Focus: data consistency and offline-first architecture  
+
+- **SmartDictionary**  
+  Chrome extension using OCR + AI for text extraction and learning support  
+  → Focus: automation and AI integration  
 
 ---
 
@@ -31,8 +48,6 @@ Welcome to my profile! I am a developer focused on building efficient backends, 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=111827" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111827" alt="React">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111827" alt="React Native">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=111827" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=111827" alt="Dart">
 </p>
 
 #### **Other Languages & Web Fundamentals**
@@ -77,5 +92,5 @@ Welcome to my profile! I am a developer focused on building efficient backends, 
 </p>
 
 <p align="center">
-  <i>"Building scalable solutions to solve real problems."</i>
+  <i>"Turning complex problems into working systems."</i>
 </p>
